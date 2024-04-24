@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TelcoAllowance implements UsagePromo {
+public class TelcoAllowance implements TelcoPromo {
 
     private static final Map<String, Double> telcoPromoHashmap = new HashMap<>();
 
